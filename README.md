@@ -31,7 +31,7 @@ Identify top performers in each batch
 🛠️ Technologies Used
 Microsoft Excel for data entry and visualization
 
-Python (Pandas) for data processing (optional, if part of backend automation)
+
 
 🚀 How to Use
 Open the MINI PROJECT.xlsx file.
@@ -47,7 +47,8 @@ Identify top performers from the respective column.
 Student Name	Maths	Science	English	Total Marks	Percentage	CGPA	Grade	Pass/Fail
 Aarav	88	78	64	379	75.8%	7.58	B	Pass
 👨‍💻 Project Contributors
-Your Name Here (or team members)
+SHIVAM AKASH
+
 
 📌 Notes
 Extendable to a web or mobile application using technologies like React, Android Studio, or Firebase.
